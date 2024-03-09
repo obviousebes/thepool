@@ -1,0 +1,27 @@
+{
+  "name": "bob",
+  "version": "0.1.0",
+  "description": "encrypt and decrypt message",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/obviousebes/thepool.git"
+  },
+  "keywords": [
+    "nacl",
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obviousebes/thepool/issues"
+  },
+  "homepage": "https://github.com/obviousebes/thepool#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
